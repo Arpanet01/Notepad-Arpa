@@ -59,7 +59,10 @@ def save_file_as() -> str:
             f.write(values.get("texto"))
     return filename
 
-
+def novo():
+    window['texto'].update('')
+    filename = None
+    return filename
 
 
 def abrir():
