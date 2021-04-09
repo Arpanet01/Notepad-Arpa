@@ -1,6 +1,5 @@
 Notepad Arpa
 
-
-Um simples editor de texto com várias funcionalidades, entre elas a mais trabalhosa, temas. 
+Um Simples Editor De Texto feito com Python.
 
 Inspirado no projeto Notepad Moon.
