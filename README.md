@@ -1,5 +1,5 @@
 # Notepad Arpa
 
-## Um Simples Editor De Texto feito com Python.
+#### Um Simples Editor De Texto feito com Python.
 
-### Funções como salvar e abrir qualquer arquivo.
+#### Funções como salvar e abrir qualquer arquivo.
